@@ -3,7 +3,7 @@
 Welcome to AI level 2 repository. This repository will have all the content related to level 1.
 
 # All resources 
-Recorded sessions and Files through our [Level 2 google drive](https://drive.google.com/drive/folders/14J0GrMG5s63WWF7rxjBR-8UKMomMTSIT?usp=drive_link)
+Recorded sessions and Files through our [Level 2 google drive]([https://drive.google.com/drive/folders/14J0GrMG5s63WWF7rxjBR-8UKMomMTSIT?usp=drive_link](https://drive.google.com/drive/folders/14J0GrMG5s63WWF7rxjBR-8UKMomMTSIT?usp=sharing))
 ## Assignment 
 You will find your assignments here you will need to solve.
 
